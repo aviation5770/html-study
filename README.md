@@ -1,4 +1,4 @@
-# react-study
+# html-study 복습
 
 git 기초 명령어 요약
 clone: 원격 저장소 복사
